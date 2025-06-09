@@ -4,12 +4,6 @@
 
 ### *The Ultimate 3D Design Pricing Calculator & Creative Services Platform*
 
-## Screenshots
-
-<!-- Adjust width as needed (e.g., 500px) -->
-<img src="public/screenshot-1.png" alt="Home Page" width="500"/>
-<img src="public/screenshot-3.png" alt="Home Page (Dark-Mode)" width="500"/>
-<img src="public/screenshot-2.png" alt="Pricing Calculator" width="500"/>
 
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
