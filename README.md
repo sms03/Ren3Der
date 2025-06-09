@@ -78,16 +78,3 @@
 </div>
 
 ---
-
-Ren3Der/
-├── 📁 src/
-│   ├── 🧩 components/     # Reusable UI components
-│   ├── 📄 pages/          # Application pages
-│   ├── 🪝 hooks/          # Custom React hooks
-│   └── 🛠️ utils/          # Utility functions
-├── 📁 public/
-│   ├── 🖼️ screenshots/    # App previews
-│   └── 📋 assets/         # Static resources
-├── 🐳 Dockerfile          # Container configuration
-├── ⚙️ tailwind.config.ts  # Styling configuration
-└── ⚡ vite.config.ts      # Build configuration
